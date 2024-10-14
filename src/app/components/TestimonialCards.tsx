@@ -9,13 +9,13 @@ const musicSchoolTestimonials = [
   },
   {
     quote:
-      "The community and support at this school are unmatched. I've grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
+      "The community and support at this school are unmatched. I&apos;ve grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
     name: "Samantha Lee",
     title: "Piano Student",
   },
   {
     quote:
-      "This school offered me the tools and confidence to take my singing to the next level. I'm endlessly grateful for the personalized coaching.",
+      "This school offered me the tools and confidence to take my singing to the next level. I&apos;m endlessly grateful for the personalized coaching.",
     name: "Michael Chen",
     title: "Vocal Student",
   },
